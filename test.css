@@ -1,5 +1,3 @@
-[dohtml]
-<style>
 .bfcCred {
  font-family:trebuchet ms;
  text-transform:uppercase;
@@ -235,21 +233,3 @@
  --lyric1:'強く強くなりたいんだよ、僕が僕でいらんるように'; /*custom lyrics (keep to one line)*/
  --lyric2:'thats why I want to get stronger, even stronger, so that I can stay myself';
 }
-</style>
-
-<div align="center"><div class="bfcbG yuji">
-<div class="bfcBody"><div class="bfcIMG"></div><div class="bfcLyric"><div class="bfcLyric2"><div></div></div></div><div class="bfcGrad"></div></div><div class="bfcInfo"><div class="bfcTag">
-
-@[TAG]
-
-</div><div class="bfcNotes">
-
-NOTES
-
-</div></div><div class="bfcBox"><div class="bfcBorder"></div><div class="bfcText"><div>
- 
-POST
- 
-</div></div></div></div><div class="bfcCred"><a href="https://ullacodes.tumblr.com/">ulla codes</a></div></div>
-<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,800|Poppins" rel="stylesheet">
-[/dohtml]
