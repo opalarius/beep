@@ -222,14 +222,3 @@
  transition:.3s;
  transition-delay:.5s;
 }
-
-.yuji {
- --color1:#87272a; /*accent color 1*/
- --color2:#4353a1; /*accent color 2*/
- 
- --image:url(https://i.imgur.com/m9UFxiw.png?1); /*500x425*/
- 
- --lyricColor:#352e55; /*color of lyric box*/
- --lyric1:'強く強くなりたいんだよ、僕が僕でいらんるように'; /*custom lyrics (keep to one line)*/
- --lyric2:'thats why I want to get stronger, even stronger, so that I can stay myself';
-}
