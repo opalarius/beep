@@ -145,7 +145,7 @@
 
 .bfcText div {
  overflow:auto;
- height:calc(385px - 36px);
+ height:calc(365px - 36px);
  box-sizing:border-box;
  margin:10px 5px 10px 10px;
  padding-right:5px;
